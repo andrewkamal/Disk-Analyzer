@@ -1,4 +1,4 @@
-1. Download the zip file "NewGUI" and extract the files
+1. Download the NewGUI Folder and open the files in VSCode
 2. Install the library "libqt5charts5" before running the GUI from the terminal using "sudo apt-get install libqt5charts5"
 3. Install qmake as well from the terminal "sudo apt-get install qt4-qmake" then "sudo apt-get install libqt4-dev"
 4. run the GUI excutable file through the terminal "./NewGUI"
